@@ -1,0 +1,38 @@
+html {
+  background-color: #f8f5f0;
+}
+
+* {
+  font-family: "Noto Serif", serif;
+}
+
+h1 {
+  color: #62223b;
+  text-align: center;
+  font-family: "Open Sans", sans-serif; /* Cormorant Garamond */
+  font-weight: bold;
+}
+
+h2 {
+  color: #62223b;
+  font-family: "Open Sans", sans-serif;
+  font-weight: normal;
+}
+
+a {
+  color: #b79962;
+}
+
+footer {
+  background-color: #62223b;
+  color: white;
+  text-align: center;
+}
+
+hr {
+  margin: 50px 0;
+}
+
+.hero-hr {
+  margin-top: 0;
+}
